@@ -1,16 +1,12 @@
 # dailytask
 
-A new Flutter project.
+<h3 align="center"> 1.First Task </h3>
 
-## Getting Started
+<h1 align="left"></h1>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<div align ="center">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+  <img src = "https://github.com/Nikks27/dailytask/assets/148762716/8b902ab0-e001-4398-a67e-ec2f4b489c36" height ="550">
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
