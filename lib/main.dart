@@ -168,8 +168,7 @@ class _buttonpageState extends State<buttonpage> {
                     SizedBox(height: 10,),
                     IconButton(onPressed: () {
 
-                    }, icon: Text('Icons',style: TextStyle(fontSize: 20),)),
-
+                    }, icon: Text('Icons',style: TextStyle(fontSize: 20),),),
                   ],
                 ),
               ],
