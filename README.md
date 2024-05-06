@@ -12,10 +12,49 @@
 
 
 
+# dailytask
+
+<h3 align="center"> 1.Digital Clock App Page </h3>
+
+<h1 align="left"></h1>
+
+
+<div align ="center">
+
+  <img src = "https://github.com/Nikks27/dailytask/assets/148762716/33a652dd-028d-46ed-8afd-706341538f81" height ="550">
+</div>
+
+
+https://github.com/Nikks27/dailytask/assets/148762716/e8068856-c665-4632-baab-c70b48a01132
 
 
 
-    Asyncronous Programming
+
+# dailytask
+
+<h3 align="center"> 1.Analogue Clock </h3>
+
+<h1 align="left"></h1>
+
+
+<div align ="center">
+
+  <img src = "https://github.com/Nikks27/dailytask/assets/148762716/0d85f2ac-5ccf-4cbb-8330-a760ecf3b669" height ="550">
+</div>
+
+https://github.com/Nikks27/dailytask/assets/148762716/a8b13cc5-3240-42cf-ae4d-ed71a44dbc02
+
+
+
+
+
+
+
+
+
+
+
+
 1. What is Asynchronous programming?
 defination : Asynchronous programming is a programming paradigm that allows tasks or operations to run independently and concurrently, without waiting for each other to complete before moving on to the next task.
 2. What is Future Class ?
